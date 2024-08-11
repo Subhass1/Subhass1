@@ -1,1 +1,2 @@
 ✍️✍️✍️✍️✍️✍️✍️✍️✍️How to make clone repository in  vs code ✍️✍️✍️✍️✍️✍️✍️✍️✍️
+  We can make Clone any repository either public or private.
