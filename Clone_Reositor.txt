@@ -1,2 +1,10 @@
 ✍️✍️✍️✍️✍️✍️✍️✍️✍️How to make clone repository in  vs code ✍️✍️✍️✍️✍️✍️✍️✍️✍️
-  We can make Clone any repository either public or private.
+  We can make Clone any repository either public or private:-⤵️⤵️
+  Step 1:- Open github account & which repository you want to make clone click on that repository
+  Step  2:- Now click on the green button with the text are written "Code". 
+  Step 3:- Copy the url 
+  Step 4:- OPen Vs code
+  Step 5:- Then click the third option Hint:(Folders option, extension....)
+  Step 6:- Click the clone repository and paste that link.
+  Step 7:- Select the location folders where you want to store that files.
+  step 8:- 
