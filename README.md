@@ -1,7 +1,7 @@
- Hi 👋 I'm subhash Yadav
+Hi 👋 I'm subhash Yadav
 -
 
-I am a forntend web developer in Nepal.
+ I am a forntend web developer from Nepal.
 - 👋 Hi, I’m @Subhass1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
