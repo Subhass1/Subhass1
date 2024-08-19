@@ -30,32 +30,28 @@
 
 <h2 align="center">Projects</h2>
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Hospital Management System</h3>
-				<div align="center">  
-					<a href='https://medi-cares.netlify.app' target="_blank">
-						<img src="https://github.com/Subhass1/Medicare-Hospital-Management-System-/blob/main/images/Medicare%20Websites%20Images.png" alt="project 1" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/Subhass1/Medicare-Hospital-Management-System-.git" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://google.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
-          <p>
-						Description goes here
-					</p>
-				</div>
-			</td>
-	
-	</table>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Hospital Management System</h3>
+<div align="center">  
+<a href='https://medi-cares.netlify.app' target="_blank">
+<img src="https://github.com/Subhass1/Medicare-Hospital-Management-System-/blob/main/images/Medicare%20Websites%20Images.png" alt="project 1" height="100%" />
+</a>
+<br><br>
+<p>
+<a href="https://github.com/Subhass1/Medicare-Hospital-Management-System-.git" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://google.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>
+</p>
+<p><strong>HTML, CSS, Javascript</strong></p>
+ <p>Description goes here</p>
+</div>
+</td>
+</table>
 </div>
 
 <br />
