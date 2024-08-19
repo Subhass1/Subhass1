@@ -43,7 +43,7 @@
 <a href="https://github.com/Subhass1/Medicare-Hospital-Management-System-.git" target="_blank">
 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://google.com" target="_blank">
+<a href="https://medi-cares.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 </a>
 </p>
