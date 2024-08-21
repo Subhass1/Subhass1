@@ -9,7 +9,7 @@
 </hr>
 <h1 align="center">Hi 👋, Subhash Yadav</h1>
  <h3 align="center"> I am a forntend web developer from Nepal. </h3>
- <h4 align="center">Hi my name is Subhash Yadav a web developer. I've been currently learning and improving my skills in forntend developer. </h4>
+ <h4 align="center">Hi my name is Subhash Yadav a web developer. I've been currently learning and improving my skills in web development. </h4>
 
 <hr>
 
