@@ -74,7 +74,7 @@
 </p>
 
 <p><strong>HTML, CSS, Javascript</strong></p>
- <a href="https://github.com/Subhass1/Traver/blob/main/README.md"> <h5>Description goes here</h5> </a>
+ <a href="https://github.com/Subhass1/Traver/blob/main/README.md" target="_blank">  Description goes here   </a>
  
 </div>
 </td>
