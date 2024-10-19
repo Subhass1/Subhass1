@@ -50,6 +50,27 @@
 <p><strong>HTML, CSS, Javascript</strong></p>
  <p>Description goes here</p>
 </div>
+
+ /* Trying to adding to other websites images. */
+<h3 align="center">Travelling Websites </h3>
+<div align="center">  
+<a href='https://github.com/Subhass1/Traver.git' target="_blank">
+<img src="https://github.com/Subhass1/Traver/blob/main/Images/website_UI.png" alt="project 1" height="100%" />
+</a>
+<br><br>
+<p>
+<a href="https://github.com/Subhass1/Traver.git" target="_blank">
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://github.com/Subhass1/Traver.git" target="_blank">
+<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+</a>
+</p>
+<p><strong>HTML, CSS, Javascript</strong></p>
+ <p>Description goes here</p>
+</div>
+
+ 
 </td>
 </table>
 </div>
