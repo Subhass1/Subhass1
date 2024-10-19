@@ -55,8 +55,7 @@
  <p>Description goes here</p>
 </td>
 
-<td>
- /* Trying to adding to other websites images. */
+<td width="50%">
 <h3 align="center">Travelling Websites </h3>
 
 <a href='https://github.com/Subhass1/Traver.git' target="_blank">
