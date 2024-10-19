@@ -74,7 +74,7 @@
 </p>
 
 <p><strong>HTML, CSS, Javascript</strong></p>
- <p>Description goes here</p>
+ <a href="https://github.com/Subhass1/Traver/blob/main/README.md"> <h5>Description goes here</h5> </a>
  
 </div>
 </td>
