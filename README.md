@@ -32,16 +32,27 @@
 
 <div width = "100%"> 
 <table>
-	<tr>
-		<td>
-			<h4>Traver</h4>
-			<div align="center" > 
-			<a href="#" target="_blank"> <img src="" alt="Project-1 Traver Website UI" </a>
+<tr>
+<!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Projects No: 1  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
+<td >
+<h4>Traver</h4>
+<div align="center" > 
+<a href="https://vercel.com/subhash-yadavs-projects-61d6c7c6/traver" target="_blank"> <img src="https://github.com/Subhass1/Traver/blob/main/Images/website_traver.png" alt="Project-1 Traver Website UI" </a>
 
-    <br> <br>
-			</div>
-		</td>
-	</tr>
+ <br> <br>
+</div>
+</td>
+
+<!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Projects No: 2  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
+<td >
+<h4>Traver</h4>
+<div align="center" > 
+<a href="https://vercel.com/subhash-yadavs-projects-61d6c7c6/traver" target="_blank"> <img src="https://github.com/Subhass1/Traver/blob/main/Images/website_traver.png" alt="Project-1 Traver Website UI" </a>
+
+ <br> <br>
+</div>
+</td>
+</tr>
 </table>
 
 
