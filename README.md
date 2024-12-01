@@ -31,7 +31,18 @@
 <h6 align="center"> HTML, CSS & JavaScript</h6>
 
 <div width = "100%"> 
+<table>
+	<tr>
+		<td>
+			<h4>Traver</h4>
+			<div align="center" > 
+			<a href="#" target="_blank"> <img src="" alt="Project-1 Traver Website UI" </a>
 
+    <br> <br>
+			</div>
+		</td>
+	</tr>
+</table>
 
 
 
