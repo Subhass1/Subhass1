@@ -43,8 +43,8 @@
  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
 <!--  <a href="#" target="_blank" style=" width: 12rem; height: 4rem; background-color: #fff; ">  Go Live </a> -->
 <div width= "100%">
-	<a href="https://travlog1.vercel.app" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201.png"  width= "40%" target="_blank" /> </a>
-  <a href="https://github.com/Subhass1/Travlog.git"  > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201%20(1).png" width= "40%" target="_blank" /> </a> 
+	<a href="https://travlog1.vercel.app" target="_blank" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201.png"  width= "40%" target="_blank" /> </a>
+  <a href="https://github.com/Subhass1/Travlog.git" target="_blank" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201%20(1).png" width= "40%" target="_blank" /> </a> 
 </div>
 
 </div>
