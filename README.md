@@ -1,19 +1,26 @@
 <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Skills Highlight ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->
- <p align="center">
+ <p>
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Subhash+Yadav..;I'm+Student.;I+am+Frontend+Web+Dveloper...;Learning+In+Public..;Nice+To+Meet+You+....&center=true">
  </p>
 
 <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Cover Photos ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->
-<div id="" align="center">
+<div>
   <img src="https://github.com/Subhass1/Subhass1/blob/main/2.png" width="100%"/>
 </div>
 
   <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ About Myself ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->  
+  <br>
 </hr>
-<h1 align="center">Hi 👋, Subhash Yadav</h1>
- <h3 align="center"> I am a forntend web developer from Nepal. </h3>
- <h6 align="center">Hi my name is Subhash Yadav a web developer. I've been currently learning and improving my skills in web development. </h6>
-<br> <br>
+<div align="center">
+<h1>Hi 👋, Subhash Yadav</h1>
+ <h3> I am a forntend web developer from Nepal. </h3>
+ <h6>Hi my name is Subhash Yadav a web developer. I've been currently learning and improving my skills in web development. </h6>	
+</div>
+
+<br>
+
+  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Views Counting ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ --> 
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Subhass1.Subhass1.svg)
 
  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ My Skills ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->  
  
@@ -27,7 +34,6 @@
 <br><br>
 
 <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ My Projects ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->
-<hr> 
 <h3 align="center"> My Projects </h3>
 <h6 align="center"> HTML, CSS & JavaScript</h6>
 
@@ -98,10 +104,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Subhass1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Subhass1.Subhass1.svg)
-<!---
-Subhass1/Subhass1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
