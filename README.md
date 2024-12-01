@@ -39,7 +39,10 @@
 <div align="center" > 
 <a href="https://travlog1.vercel.app" target="_blank"> <img src="https://github.com/Subhass1/Travlog/blob/main/assests/img/travelog-ui.png" alt="Project-1 Travlog Website UI" </a>
 
- <br> <br>
+ <br>
+ <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
+ <a href="#" target="_blank" style=" width: 12rem; height: 4rem; background-color: #fff; ">  Go Live </a>
+  <a href="#" target="_blank"> <button> Code </button> </a>
 </div>
 </td>
 
