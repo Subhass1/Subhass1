@@ -11,22 +11,23 @@
  <h3 align="center"> I am a forntend web developer from Nepal. </h3>
  <h4 align="center">Hi my name is Subhash Yadav a web developer. I've been currently learning and improving my skills in web development. </h4>
 
-<hr>
+<hr> 
 
-<h2 align="center"> 🖥️ Skills</h2>
+<h2 align="center"> 🖥️ Skills </h2>
 
 <div align="center">
                 <br>
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-		                   	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+		     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
               
 </div>
 
 <br>
-</hr>
-
+<br>
+<br>
 <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ My Projects ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->
+<hr> 
 <h3 align="center"> My Projects </h3>
 <h6 align="center"> HTML, CSS & JavaScript</h6>
 
@@ -41,7 +42,6 @@
 
  <br>
  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
-<!--  <a href="#" target="_blank" style=" width: 12rem; height: 4rem; background-color: #fff; ">  Go Live </a> -->
 <div width= "100%">
 	<a href="https://travlog1.vercel.app" target="_blank" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201.png"  width= "40%" target="_blank" /> </a>
   <a href="https://github.com/Subhass1/Travlog.git" target="_blank" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201%20(1).png" width= "40%" target="_blank" /> </a> 
@@ -58,7 +58,7 @@
 
  <br>
   <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
-<!--  <a href="#" target="_blank" style=" width: 12rem; height: 4rem; background-color: #fff; ">  Go Live </a> -->
+
 <div width= "100%">
 	<a href="https://traver-pi.vercel.app" target="_blank"> <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201.png"  width= "40%" /> </a>
   <a href="https://github.com/Subhass1/Traver.git" target="_blank" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201%20(1).png" width= "40%" /> </a> 
