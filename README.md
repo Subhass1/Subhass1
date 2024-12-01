@@ -42,10 +42,11 @@
  <br>
  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
 <!--  <a href="#" target="_blank" style=" width: 12rem; height: 4rem; background-color: #fff; ">  Go Live </a> -->
-<a href="https://travlog1.vercel.app" target="_blank">
-<img src="#"/>
-</a>
-  <a href="#" target="_blank"> <button> Code </button> </a>
+<div width= "100%">
+	<a href="https://travlog1.vercel.app" target="_blank"> <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201.png"  width= "40%" /> </a>
+  <a href="https://github.com/Subhass1/Travlog.git" target="_blank" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201%20(1).png" width= "40%" /> </a> 
+</div>
+
 </div>
 </td>
 
@@ -55,7 +56,13 @@
 <div align="center" > 
 <a href="https://vercel.com/subhash-yadavs-projects-61d6c7c6/traver" target="_blank"> <img src="https://github.com/Subhass1/Traver/blob/main/Images/website_traver.png" alt="Project-1 Traver Website UI" </a>
 
- <br> <br>
+ <br>
+  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
+<!--  <a href="#" target="_blank" style=" width: 12rem; height: 4rem; background-color: #fff; ">  Go Live </a> -->
+<div width= "100%">
+	<a href="https://traver-pi.vercel.app" target="_blank"> <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201.png"  width= "40%" /> </a>
+  <a href="https://github.com/Subhass1/Traver.git" target="_blank" > <img src="https://github.com/Subhass1/Subhass1/blob/main/Group%201%20(1).png" width= "40%" /> </a> 
+</div>
 </div>
 </td>
 </tr>
