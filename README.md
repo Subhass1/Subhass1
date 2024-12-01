@@ -42,21 +42,8 @@
  <br>
  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
 <!--  <a href="#" target="_blank" style=" width: 12rem; height: 4rem; background-color: #fff; ">  Go Live </a> -->
-<a href="#" target="_blank" 
-   style="display: inline-block; 
-          text-align: center; 
-          line-height: 4rem; 
-          width: 12rem; 
-          height: 4rem; 
-          background-color: #fff; 
-          color: #000; 
-          text-decoration: none; 
-          border: 2px solid #000; 
-          border-radius: 6px; 
-          font-size: 1rem; 
-          font-weight: bold; 
-          transition: background-color 0.3s ease, color 0.3s ease;">
-  Go Live
+<a href="https://travlog1.vercel.app" target="_blank">
+<img src="#"/>
 </a>
   <a href="#" target="_blank"> <button> Code </button> </a>
 </div>
