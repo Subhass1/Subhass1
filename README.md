@@ -88,7 +88,7 @@
 <td >
 <h4>Traver</h4>
 <div align="center" > 
-<a href="https://vercel.com/subhash-yadavs-projects-61d6c7c6/traver" target="_blank"> <img src="https://github.com/Subhass1/Traver/blob/main/Images/website_traver.png" alt="Project-1 Traver Website UI" </a>
+<a href="https://vercel.com/subhash-yadavs-projects-61d6c7c6/traver" target="_blank"> <img src="https://github.com/Subhass1/Traver/blob/main/Images/traver.png" alt="Project-1 Traver Website UI" </a>
 
  <br>
   <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
