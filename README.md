@@ -72,7 +72,7 @@
 <td >
 <h4>Travlog</h4>
 <div align="center" > 
-<a href="https://travlog1.vercel.app" target="_blank"> <img src="https://github.com/Subhass1/Travlog/blob/main/assests/img/travelog-ui.png" alt="Project-1 Travlog Website UI" </a>
+<a href="https://travlog1.vercel.app" target="_blank"> <img src="https://github.com/Subhass1/Travlog/blob/main/assests/UI/cover%20image.png" alt="Project-1 Travlog Website UI" </a>
 
  <br>
  <!--⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ Button  ⇉⇉⇉⇉⇉⇉⇉⇉⇉⇉ -->	
